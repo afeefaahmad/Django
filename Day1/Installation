@@ -11,12 +11,25 @@ C:\Users\DELL\djangodemo>djenv\Scripts\activate
 
 To run project in vsc terminal type(default on 8000) : python manage.py runserver
 in personalized port number : python manage.py runserver 5000
+Task0: Python project visible over : http://127.0.0.1:8000/
 
+
+
+Task1: User credential page ie. http://127.0.0.1:8000/admin 
 To populate data to default table: python manage.py runserver
-
 
 To create a user:  python manage.py createsuperuser
 name (abc, 123)
+
+Task2: To display on home page
+In urls.py => 
+def hello(request):
+    return HttpResponse("<h1>Hello World, This is my Django Page</h1>")
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path("",hello)
+]
 
 
 
