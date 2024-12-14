@@ -1,0 +1,10 @@
+C:\Users\DELL>cd djangodemo
+C:\Users\DELL\djangodemo>python --version
+C:\Users\DELL\djangodemo>python -m venv djenv
+C:\Users\DELL\djangodemo>djenv\Scripts\activate
+(djenv) C:\Users\DELL\djangodemo>pip --version
+(djenv) C:\Users\DELL\djangodemo>pip install Django
+(djenv) C:\Users\DELL\djangodemo>django-admin startproject demo
+(djenv) C:\Users\DELL\djangodemo>code .
+
+
