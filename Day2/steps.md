@@ -1,4 +1,12 @@
 
+
+We have to connect to Mysql Workbench:
+step1: 
+step2: 
+step3:create database called django
+
+![WhatsApp Image 2024-12-21 at 16 41 05_ca78f252](https://github.com/user-attachments/assets/b5c7ae56-30ee-4627-81fb-375d21f09bc1)
+
 Create app named app1
 demo> setting.py> Installed_apps> (add new app ie. app1)
 Creating tables in app1>models.py
@@ -17,6 +25,9 @@ python manage.py migrate #To populate with tables
 python manage.py runserver
 
 After adding migrations these tables will be visible
+![WhatsApp Image 2024-12-21 at 16 34 45_025ce49f](https://github.com/user-attachments/assets/0134e721-1e97-4659-b1ae-48cc330aaa94)
+
+![WhatsApp Image 2024-12-21 at 16 36 20_357770b3](https://github.com/user-attachments/assets/8d1397da-12db-42de-935d-dc1e85954975)
 
 ![image](https://github.com/user-attachments/assets/ae4fcf9c-083a-4fba-99ba-a839d56e942b)
 
