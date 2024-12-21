@@ -16,6 +16,11 @@ python manage.py makemigration #To generate  migrations file
 python manage.py migrate #To populate with tables
 python manage.py runserver
 
+After adding migrations these tables will be visible
+
+![image](https://github.com/user-attachments/assets/ae4fcf9c-083a-4fba-99ba-a839d56e942b)
+
+
 Two methods to populate tables with data:
 1.Using admin panel    2.Using shell
 
