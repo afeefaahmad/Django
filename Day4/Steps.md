@@ -9,12 +9,40 @@ Step3:
 
 
 Step4:
+from django.shortcuts import render
+from django.http import HttpResponse, JsonResponse
+from app2.models import Product
+
+# Create your views here.
+def pro_records(request):
+    """
+    with this model we try to return all product model record as API
+    """
+    pro_data = Product.objects.all()
+    response = []
+    for rec in pro_data:
+        response.append({
+            "Name_of_Product": rec.pro_name,
+            "Price": rec.pro_price,
+            "Description": rec.pro_desc,
+            "Ratings":rec.rating,
+        })
+    return JsonResponse(response, safe=False)
 ![image](https://github.com/user-attachments/assets/995eb93e-427b-48a6-b145-79df82ff91b5)
 ![image](https://github.com/user-attachments/assets/921e171c-3f55-4fb6-afc6-13fea9aa5086)
 
 
 Step5:
+![image](https://github.com/user-attachments/assets/03d3a83f-c6cd-4876-8cb2-1df4509669d1)
+![image](https://github.com/user-attachments/assets/5ee9b4ef-b279-46a6-9194-09bdd10512a7)
+
+
 Step6:
+![image](https://github.com/user-attachments/assets/8860a9d3-70fa-40dc-99cb-ea57da59114d)
+![image](https://github.com/user-attachments/assets/9b9610be-f43b-43d5-a903-b793e106b487)
+
+
+
 Step7:
 Step8:
 Step9:
