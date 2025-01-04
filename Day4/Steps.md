@@ -44,6 +44,13 @@ Step6:
 
 
 Step7:
+![image](https://github.com/user-attachments/assets/386e27e1-4364-404d-80e4-990aa068b733)
+
+Postman
+![image](https://github.com/user-attachments/assets/ee888d90-dcb5-4e74-b9ad-3cd66abedb90)
+![image](https://github.com/user-attachments/assets/17765c38-f6ce-4cac-afd7-347c189ade53)
+
+
 Step8:
 Step9:
 Step10:
