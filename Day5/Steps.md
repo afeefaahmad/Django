@@ -12,6 +12,10 @@ ProductList: http://127.0.0.1:8000/app2/ListView
 ******************************************************************************************************
 Step1:
 Creating new app > app3
+![image](https://github.com/user-attachments/assets/ca77d2ba-1b70-4ffd-af26-0f578e7f5557)
+
+![image](https://github.com/user-attachments/assets/7bcc989c-8ad2-4cff-9eaf-ff72a7c59c3c)
+
 
 
 Step2:
