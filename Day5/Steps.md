@@ -15,6 +15,10 @@ Creating new app > app3
 
 
 Step2:
+![image](https://github.com/user-attachments/assets/a1ad1441-cc27-49d9-9983-73789ffaf1f9)
+![image](https://github.com/user-attachments/assets/2517b482-48c9-4058-8edd-01fefaecfa91)
+
+
 
 Step3:
 
