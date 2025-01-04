@@ -84,7 +84,32 @@ Output> ![image](https://github.com/user-attachments/assets/eedacae1-e1e9-4b11-9
 
 
 *******************************************************************************************************************
-Step6:
+Step6: Implementing authentication
+![image](https://github.com/user-attachments/assets/14c92740-83cd-4b5a-bc45-8c09cb0fd93b)
+After applying above over demo>settings.py> we get this output
+![image](https://github.com/user-attachments/assets/8efbdd40-c2af-452a-9959-757d8d2150ce)
+In demo>settings.py> Installed_apps> "rest_framework.authtoken",
+then > python manage.py migrate
+![image](https://github.com/user-attachments/assets/e1016257-15cd-46be-b766-5cdd96e6c10a)
+http://127.0.0.1:8000/admin/ >here auth token added after migration
+![image](https://github.com/user-attachments/assets/e7bad7ef-e2d2-49fd-882d-fcb11c23809c)
+
+
+Token >
+![image](https://github.com/user-attachments/assets/0dee769d-9adc-4599-8aa2-b5d33bd88216)
+![image](https://github.com/user-attachments/assets/8ce489e5-622e-4a91-9eb7-580d4fea7eca)
+
+Postman>
+![image](https://github.com/user-attachments/assets/b8c16e3e-1d47-49ec-a1ee-410e1bdbe8c3)
+Now accessible after providing Token
+![image](https://github.com/user-attachments/assets/30db0a15-d30e-49bb-8d4b-dc741252ea1f)
+
+
+
+
+
+
+
 Step7:
 Step8:
 
