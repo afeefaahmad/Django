@@ -1,4 +1,4 @@
-
+CRUD using API
 
 Step1: create a new app called "app2"
 Step2:![image](https://github.com/user-attachments/assets/1c62888a-caf7-41d2-aff2-f8494e14f9e2)
@@ -50,9 +50,18 @@ Postman
 ![image](https://github.com/user-attachments/assets/ee888d90-dcb5-4e74-b9ad-3cd66abedb90)
 ![image](https://github.com/user-attachments/assets/17765c38-f6ce-4cac-afd7-347c189ade53)
 
+BROWSER API REST FRAMEWORK
+Step1:
+Step2:drf/crud
+![image](https://github.com/user-attachments/assets/c6b0144c-ff8e-4e50-ba9e-5191c08ccfe4)
 
+Step3:drf_ud
+![image](https://github.com/user-attachments/assets/960d43fe-382c-45d8-b55e-57bb41eadc02)
+
+Step4:
+Step5:
+Step6:
+Step7:
 Step8:
-Step9:
-Step10:
 
 
