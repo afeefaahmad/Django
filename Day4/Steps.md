@@ -59,9 +59,14 @@ Step3:drf_ud
 ![image](https://github.com/user-attachments/assets/960d43fe-382c-45d8-b55e-57bb41eadc02)
 ![image](https://github.com/user-attachments/assets/f1695dc5-e033-43b8-9bc3-e3db6f55f778)
 ![image](https://github.com/user-attachments/assets/11ec37f9-37d0-479f-80bb-e0560ca9bdbb)
+Delete and update ....
+
+Step4:Viewset ie. drf_viewsets>serializers>urls.py
+![image](https://github.com/user-attachments/assets/47ff170b-49bc-4f87-bf28-4f3e255f16e2)
+![image](https://github.com/user-attachments/assets/0e1bc0b8-556b-420e-9f4f-f3463a712c7a)
 
 
-Step4:
+
 Step5:
 Step6:
 Step7:
