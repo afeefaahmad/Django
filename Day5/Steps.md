@@ -43,11 +43,13 @@ Templates> test_css> urls.py> views.py>
 http://127.0.0.1:8000/app3/css_html
 ![image](https://github.com/user-attachments/assets/7275d187-3e1c-4aa5-9930-7e96f1468ceb)
 
+After adding css > 
 
-
-
+![image](https://github.com/user-attachments/assets/a84f68d8-d0e0-4ad3-9ad0-f5a396961188)
 
 Step4:
+
+
 
 Step5:
 Step8:
