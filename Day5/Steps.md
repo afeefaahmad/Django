@@ -20,6 +20,7 @@ FORM CONTACT is created using   Html form and retreived data
 
 
 Step2:
+Html to model
 FEEDBACK FORM using MODEL
 ![image](https://github.com/user-attachments/assets/a1ad1441-cc27-49d9-9983-73789ffaf1f9)
 ![image](https://github.com/user-attachments/assets/2517b482-48c9-4058-8edd-01fefaecfa91)
@@ -32,6 +33,8 @@ models> Forms> views> urls.py >
 
 http://127.0.0.1:8000/admin/app3/feedback/
 ![image](https://github.com/user-attachments/assets/205cd51d-b847-42db-88d9-860d9627b523)
+
+we have fetched data coming from html which is processed into model
 
 
 Step3:
