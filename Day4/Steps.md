@@ -57,6 +57,9 @@ Step2:drf/crud
 
 Step3:drf_ud
 ![image](https://github.com/user-attachments/assets/960d43fe-382c-45d8-b55e-57bb41eadc02)
+![image](https://github.com/user-attachments/assets/f1695dc5-e033-43b8-9bc3-e3db6f55f778)
+![image](https://github.com/user-attachments/assets/11ec37f9-37d0-479f-80bb-e0560ca9bdbb)
+
 
 Step4:
 Step5:
