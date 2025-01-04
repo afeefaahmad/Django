@@ -6,7 +6,8 @@ Step2:
 POSTMAN 
 ![image](https://github.com/user-attachments/assets/333629c7-b991-4f41-8418-8add51706b16)
 
-ProductList: http://127.0.0.1:8000/app2/ListView
+ProductList: http://127.0.0.1:8000/app2/
+ListView
 ![image](https://github.com/user-attachments/assets/80bf215a-4364-401e-a530-d94c4d79da12)
 
 ******************************************************************************************************
@@ -38,6 +39,9 @@ we have fetched data coming from html which is processed into model
 
 
 Step3:
+Templates> test_css> urls.py> views.py> 
+http://127.0.0.1:8000/app3/css_html
+![image](https://github.com/user-attachments/assets/7275d187-3e1c-4aa5-9930-7e96f1468ceb)
 
 
 
