@@ -61,6 +61,7 @@ Step3: drf_ud
 ![image](https://github.com/user-attachments/assets/11ec37f9-37d0-479f-80bb-e0560ca9bdbb)
 Delete and update ....
 
+*******************************************************************************************************************
 Step4: Viewset ie. drf_viewsets>serializers>urls.py >
 TO VIEW(get): http://127.0.0.1:8000/app2/viewset/
 TO CREATE(post): http://127.0.0.1:8000/app2/viewset/
@@ -74,8 +75,15 @@ TO UPDATE(put): http://127.0.0.1:8000/app2/viewset/5/
 TO DELETE(delete): http://127.0.0.1:8000/app2/viewset/5/
 Just click over delete button
 
-Step5: 
+*******************************************************************************************************************
+Step5: Here there are no filters
+![image](https://github.com/user-attachments/assets/4a5ccd8b-b068-4163-9338-de12cfa21d58)
+Now adding filters> app2> admin> ![image](https://github.com/user-attachments/assets/1bd1eadd-a5e1-46fa-a34d-8e1bef95342c)
+Output> ![image](https://github.com/user-attachments/assets/eedacae1-e1e9-4b11-9b50-07a199eba06a)
 
+
+
+*******************************************************************************************************************
 Step6:
 Step7:
 Step8:
