@@ -1,4 +1,4 @@
-CRUD using API
+🧩CRUD using API
 
 Step1: create a new app called "app2"
 Step2:![image](https://github.com/user-attachments/assets/1c62888a-caf7-41d2-aff2-f8494e14f9e2)
@@ -50,24 +50,32 @@ Postman
 ![image](https://github.com/user-attachments/assets/ee888d90-dcb5-4e74-b9ad-3cd66abedb90)
 ![image](https://github.com/user-attachments/assets/17765c38-f6ce-4cac-afd7-347c189ade53)
 
-BROWSER API REST FRAMEWORK
+🧩BROWSER API REST FRAMEWORK
 Step1:
-Step2:drf/crud
+Step2: drf/crud
 ![image](https://github.com/user-attachments/assets/c6b0144c-ff8e-4e50-ba9e-5191c08ccfe4)
 
-Step3:drf_ud
+Step3: drf_ud
 ![image](https://github.com/user-attachments/assets/960d43fe-382c-45d8-b55e-57bb41eadc02)
 ![image](https://github.com/user-attachments/assets/f1695dc5-e033-43b8-9bc3-e3db6f55f778)
 ![image](https://github.com/user-attachments/assets/11ec37f9-37d0-479f-80bb-e0560ca9bdbb)
 Delete and update ....
 
-Step4:Viewset ie. drf_viewsets>serializers>urls.py
+Step4: Viewset ie. drf_viewsets>serializers>urls.py >
+TO VIEW(get): http://127.0.0.1:8000/app2/viewset/
+TO CREATE(post): http://127.0.0.1:8000/app2/viewset/
 ![image](https://github.com/user-attachments/assets/47ff170b-49bc-4f87-bf28-4f3e255f16e2)
 ![image](https://github.com/user-attachments/assets/0e1bc0b8-556b-420e-9f4f-f3463a712c7a)
 
+TO UPDATE(put): http://127.0.0.1:8000/app2/viewset/5/
+![image](https://github.com/user-attachments/assets/0f22a06b-7194-46d7-87f6-08c1dc2d2080)
+![image](https://github.com/user-attachments/assets/ab09d53e-513b-4b13-a0db-e0a180db7c96)
 
+TO DELETE(delete): http://127.0.0.1:8000/app2/viewset/5/
+Just click over delete button
 
-Step5:
+Step5: 
+
 Step6:
 Step7:
 Step8:
